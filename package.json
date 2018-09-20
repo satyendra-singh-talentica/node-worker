@@ -1,0 +1,23 @@
+{
+  "name": "worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyendra-singh-talentica/node-worker.git"
+  },
+  "author": "satyendra singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satyendra-singh-talentica/node-worker/issues"
+  },
+  "homepage": "https://github.com/satyendra-singh-talentica/node-worker#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
